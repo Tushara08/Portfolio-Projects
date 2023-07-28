@@ -1,1 +1,2 @@
-(ecommerce sales dashboard.pdf)
+![Alt Text](Portfolio-Projects/Project1/ecommerce sales dshboard.pdf)
+
