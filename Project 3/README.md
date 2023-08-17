@@ -1,5 +1,7 @@
 # SQL - 8 Case Studies Chanlenges By Danny Ma
 
+![](https://github.com/Tushara08/Portfolio-Projects/blob/main/Project%203/sql%208.png?raw=True)
+
 Learned SQL through multiple realistic end-to-end case studies that closely replicate data analytics tasks in various domains including 
 * Health Analytics
 * Marketing Analytics
