@@ -1,6 +1,6 @@
 # Case Study 1 - Danny's Diner 
 
-!()
+![Alt Text](https://github.com/Tushara08/Portfolio-Projects/blob/main/Project%203/Case%20Study%201-%20Danny's%20Diner/images/1.png?raw=True)
 
 ## Introduction
 Danny seriously loves Japanese food so in the beginning of 2021, he decides to embark upon a risky venture and opens up a cute little restaurant that sells his 3 favourite foods: sushi, curry and ramen.
@@ -20,7 +20,7 @@ Danny has shared with you 3 key datasets for this case study:
 * menu
 * members
 
-![]()
+![Alt Text](https://github.com/Tushara08/Portfolio-Projects/blob/main/Project%203/Case%20Study%201-%20Danny's%20Diner/images/ER%201.png?raw=True)
 
 ## Case Study Questions
 Each of the following case study questions can be answered using a single SQL statement:
@@ -42,9 +42,10 @@ The following questions are related creating basic data tables that Danny and hi
 
 Recreate the following table output using the available data:
 
-![]()
+![](https://github.com/Tushara08/Portfolio-Projects/blob/main/Project%203/Case%20Study%201-%20Danny's%20Diner/images/bonus%201.png?raw=True)
 
 ## [Rank All The Things]()
 Danny also requires further information about the ranking of customer products, but he purposely does not need the ranking for non-member purchases so he expects null ranking values for the records when customers are not yet part of the loyalty program.
 
+![](https://github.com/Tushara08/Portfolio-Projects/blob/main/Project%203/Case%20Study%201-%20Danny's%20Diner/images/rank%201.png?raw=True)
 ![]()
